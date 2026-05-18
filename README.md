@@ -1,10 +1,10 @@
 # Kanishk Kumar
 
-**Data Scientist \| Python Associate | ML Analyst**
+**Data Scientist \| Python Associate \| ML Analyst**
 
 *"Code Smart. Think Python."*
 
-kanishkk202@gmail.com | +91-9990465116 | Noida, Uttar Pradesh
+kanishkk202@gmail.com \| +91-9990465116 \| Noida, Uttar Pradesh
 
 ---
 
@@ -29,45 +29,45 @@ Modeling, A/B Testing.
 
 ## 🧠 Projects{GitHub Repository ^ YouTube Demo}
 
-- **Real-Time Stock Price Prediction Project *|* Python, LSTM, Data Visualization (Mar, 2026 - Present)**
+- **Real-Time Stock Price Prediction Project \| Python, LSTM, Data Visualization (Mar, 2026 - Present)**
 - Developed an end-to-end time-series pipeline using LSTM networks to forecast stock prices at 5-minute intervals.
 - Achieved an RMSE of $2.45 with 88% of predictions falling within 3% of the actual closing price.
 - Optimized model retraining latency to 8 seconds, demonstrating a production-ready approach for low-latency financial forecasting.
 Aut.
-- **Automated Sales Performance & Customer Analytics Dashboard Project| Python, SQL, Power Query (Mar, 2026 - Present)**
+- **Automated Sales Performance & Customer Analytics Dashboard Project \| Python, SQL, Power Query (Mar, 2026 - Present)**
 - Designed an automated analytics workflow to clean and visualize transactional data, surfacing key revenue drivers.
 - Identified that Premium customers generate 68% of total revenue, while overall 3-month retention declines to 40%.
 
-- **📊 Football Match Outcome Prediction with Deep Learning Project | Python, LSTM, Scikit-learn**  
+- **📊 Football Match Outcome Prediction with Deep Learning Project \| Python, LSTM, Scikit-learn**  
   *Higher School of Economics - Moscow, Russian Federation*
   - Engineered sequential time-series features from historical match data to predict game outcomes.
 - Compared performance of LSTM networks Logistic Regression, Random Forest AUC-ROC optimization & log-loss reduction. 
   🔗 [YouTube Demo](https://www.youtube.com/watch?v=wAfRRCoxSV4)
 
-- **Multilingual Health Assistant Chatbot Project| Python, NLP, Dialog Management**  
+- **Multilingual Health Assistant Chatbot Project \| Python, NLP, Dialog Management**  
   *Google Data Project sources based on Python Language*
   - Built an NLP-driven chatbot capable of processing health-related queries in 3 different languages.
 - Implemented custom intent classification and entity recognition to navigate over 50 distinct conversational paths.
   🔗 [YouTube Demo](https://www.youtube.com/watch?v=abFE5PhaLoQ&list=PL7ynwnBlQXWXcBRe4A7uRkI5r0DsIeZKM)
 
-- **BoolQ Question Answering with Fine-Tuned BERT Project| PyTorch, Transformers, NLP**  
-  *NLP Chatbot using BERT, word2vec, Stopwords | 🛠️ Tools: Python, Sklearn, Pandas*
+- **BoolQ Question Answering with Fine-Tuned BERT Project \| PyTorch, Transformers, NLP**  
+  *NLP Chatbot using BERT, word2vec, Stopwords \| 🛠️ Tools: Python, Sklearn, Pandas*
   - Fine-tuned a BERT-base model on the BoolQ dataset, achieving 87% accuracy in binary question answering.
 - Engineered comparison feature pipelines using word2vec and fastText embeddings to benchmark transformer performance SVM.
   🔗 [GitHub Repository](https://github.com/kkr202mlds/BoolQ_Ques_Ans_Ft_BERT/blob/main/BoolQ_BERT_QuestionAnswering.ipynb)
 
-- **End-to-End MLOps Pipeline: Iris Classification Web App Project| Flask, Docker, Celery, MLflow**  
-  *SVM, LR, DT, K-NN, LSML, Data Visualization | 🛠️ Tools: Python, Flask, Docker, Celery, MLflow*
+- **End-to-End MLOps Pipeline: Iris Classification Web App Project \| Flask, Docker, Celery, MLflow**  
+  *SVM, LR, DT, K-NN, LSML, Data Visualization \| 🛠️ Tools: Python, Flask, Docker, Celery, MLflow*
 - Containerized a Flask inference API using Docker to ensure environment consistency across development and production.
 - Implemented Celery for asynchronous prediction task management, improving response times and user experience.
   🔗 [GitHub Repository](https://github.com/kkr202mlds/Iris_Classification_App_w_ML_flow_Data_Analysis_Docker_Flask_Celery/tree/main)
 
 - **IMDB Exploratory Data Analysis & Visualization with Machine Learning**  
-  *Logistic Regression, K Neighbors, Decision Tree Classifier Model | 🛠️ Tools: Python, Pandas, NumPy, Matplotlib, Seaborn, Plotly & Transformer*  
+  *Logistic Regression, K Neighbors, Decision Tree Classifier Model \| 🛠️ Tools: Python, Pandas, NumPy, Matplotlib, Seaborn, Plotly & Transformer*  
   🔗 [GitHub Repository](https://github.com/kkr202mlds/IMDB_Exploratory_Data_Analysis_Visualiz_w_ML.git)
 
 - **Click prediction analysis with Spark RDD & DataFrame APIs**  
-  *Advanced Hadoop RDD Python DataFrame LSML | 🛠️ Tools: Python, Spark, HDFS, RDD*  
+  *Advanced Hadoop RDD Python DataFrame LSML \| 🛠️ Tools: Python, Spark, HDFS, RDD*  
   🔗 [GitHub Repository](https://github.com/kkr202mlds/Click_Prediction_Analysis_w_Spark_RDD_DataFrame_APIs)
   
 ---
