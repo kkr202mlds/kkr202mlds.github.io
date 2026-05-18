@@ -10,64 +10,74 @@ kanishkk202@gmail.com | +91-9990465116 | Noida, Uttar Pradesh
 
 ## 🙋 About ME
 
-I'm Kanishk Kumar, Motivated and results-driven ML/AI, Python and Data Scientist postgraduate with a Master’s from a top-tier research university (HSE, Moscow). Proven ability to architect and deploy end-to-end machine learning solutions, from exploratory data analysis to model deployment using Flask and Docker. Passionate about applying Large Language Models (LLMs), classical ML, and statistical analysis to solve complex business problems. Eager to leverage academic excellence and project-based experience in a challenging AI/ML Engineer internship role. Fluent in Python's data science ecosystem (Pandas, Scikit-learn, PyTorch) and big data technologies (Spark).
+Data Scientist with an MSc in Data Science from HSE University and 2+ years of hands-on project experience in Machine Learning, Python and 
+NLP. Proficient in Python, model deployment (Flask, Docker), and deep learning techniques including Transformers and LSTMs. Strong foundation 
+in statistics and big data (Spark), with a keen interest in MLOps and Generative AI. Seeking an entry-level role to apply data-driven solutions to 
+real-world problems.
 
 ---
 
 ## 💡 IT Skills
 
-- **Machine Learning & Deep Learning:** Scikit-learn, TensorFlow/Keras, PyTorch, XGBoost, LSTM, Transformers (BERT, GPT)
-- **Data Engineering & MLOps:** Apache Spark (RDD, DataFrames), MLflow, Docker, Flask, Celery, Git
-- **Techniques:** Data Analysis, Visualization, Mining & Sorting, Deep Learning, Statistics
-- **Specializations:** Natural Language Processing (NLP), Computer Vision, Statistical Modeling, A/B Testing
-- **Frameworks:** Pandas, Numpy, Scikit-Learn, Matplotlib
-- **Tools:** PostgreSQL, Excel, PowerPoint, Docker
-- **Platforms:** Jupyter Notebook, PyCharm, VS Code
-- **Libraries:** FastAPI, OpenAI, MLflow, Celery, Flask, MLTracking
-- **Cloud:** Azure, Google Colab, JupyterLab, Docker Swarm
+- **Languages & Libraries:** Python (Advanced), SQL (Intermediate), Pandas, NumPy, Scikit-learn, PyTorch, TensorFlow/Keras, XGBoost.
+- **Machine Learning & AI:** Natural Language Processing (BERT, GPT, Transformers), Time-Series Analysis (LSTM), Computer Vision, Statistical 
+Modeling, A/B Testing.
+- **MLOps & Deployment:** Docker, Flask, FastAPI, Celery, MLflow, Git.
+- **Big Data & Cloud:** Apache Spark (RDD, DataFrames), Hadoop, Azure
 
 ---
 
-## 🧠 Projects
+## 🧠 Projects{GitHub Repository ^ YouTube Demo}
 
-- **📊 Football Data Analysis with ML, LR, LSTM, NLP, Cluster & Statistic Method Project (Jan, 2023 - July, 2023)**  
-  *Higher School of Economics - Moscow, Russian Federation*  
-  - To Analyze Football Matches and Events Data uses Machine Learning models like Logistic & Piecewise Regression, K-Means Model  
-  - Applied loss functions and compare Different AUC Curves and accuracy score performance metrics.  
-  🔗 [YouTube Link](https://www.youtube.com/watch?v=wAfRRCoxSV4)
+- **Real-Time Stock Price Prediction Project| Python, LSTM, Data Visualization (Mar, 2026 - Present)**
+- Developed an end-to-end time-series pipeline using LSTM networks to forecast stock prices at 5-minute intervals.
+- Achieved an RMSE of $2.45 with 88% of predictions falling within 3% of the actual closing price.
+- Optimized model retraining latency to 8 seconds, demonstrating a production-ready approach for low-latency financial forecasting.
+Aut.
+- **Automated Sales Performance & Customer Analytics Dashboard Project| Python, SQL, Power Query (Mar, 2026 - Present)**
+- Designed an automated analytics workflow to clean and visualize transactional data, surfacing key revenue drivers.
+- Identified that Premium customers generate 68% of total revenue, while overall 3-month retention declines to 40%.
 
-- **Health and Medicine Assistant Chatbot Project for Different Languages**  
-  *Google Data Project sources based on Python Language*  
-  🔗 [Video Present Link](https://www.youtube.com/watch?v=abFE5PhaLoQ&list=PL7ynwnBlQXWXcBRe4A7uRkI5r0DsIeZKM)
+- **📊 Football Match Outcome Prediction with Deep Learning Project | Python, LSTM, Scikit-learn**  
+  *Higher School of Economics - Moscow, Russian Federation*
+  - Engineered sequential time-series features from historical match data to predict game outcomes.
+- Compared performance of LSTM networks Logistic Regression, Random Forest AUC-ROC optimization & log-loss reduction. 
+  🔗 [YouTube Demo](https://www.youtube.com/watch?v=wAfRRCoxSV4)
 
-- **Question Answering with Fine-tuned BERT on BoolQ**  
+- **Multilingual Health Assistant Chatbot Project| Python, NLP, Dialog Management**  
+  *Google Data Project sources based on Python Language*
+  - Built an NLP-driven chatbot capable of processing health-related queries in 3 different languages.
+- Implemented custom intent classification and entity recognition to navigate over 50 distinct conversational paths.
+  🔗 [YouTube Demo](https://www.youtube.com/watch?v=abFE5PhaLoQ&list=PL7ynwnBlQXWXcBRe4A7uRkI5r0DsIeZKM)
+
+- **BoolQ Question Answering with Fine-Tuned BERT Project| PyTorch, Transformers, NLP**  
   *NLP Chatbot using BERT, word2vec, Stopwords | 🛠️ Tools: Python, Sklearn, Pandas*
+  - Fine-tuned a BERT-base model on the BoolQ dataset, achieving 87% accuracy in binary question answering.
+- Engineered comparison feature pipelines using word2vec and fastText embeddings to benchmark transformer performance SVM.
+  🔗 [GitHub Repository](https://github.com/kkr202mlds/BoolQ_Ques_Ans_Ft_BERT/blob/main/BoolQ_BERT_QuestionAnswering.ipynb)
 
-- **Click prediction analysis with Spark RDD & DataFrame APIs**  
-  *Advanced Hadoop RDD Python DataFrame LSML | 🛠️ Tools: Python, Spark, HDFS, RDD*  
-  🔗 [GitHub Link](https://github.com/kkr202mlds/Click_Prediction_Analysis_w_Spark_RDD_DataFrame_APIs)
-
-- **Iris Classification App with ML flow, Data Analysis, Docker, Flask & Celery**  
-  *SVM, LR, DT, K-NN, LSML, Data Visualization | 🛠️ Tools: Python, Flask, Docker, Celery, MLflow*  
-  🔗 [GitHub Link](https://github.com/kkr202mlds/Iris_Classification_App_w_ML_flow_Data_Analysis_Docker_Flask_Celery)
+- **End-to-End MLOps Pipeline: Iris Classification Web App Project| Flask, Docker, Celery, MLflow**  
+  *SVM, LR, DT, K-NN, LSML, Data Visualization | 🛠️ Tools: Python, Flask, Docker, Celery, MLflow*
+- Containerized a Flask inference API using Docker to ensure environment consistency across development and production.
+- Implemented Celery for asynchronous prediction task management, improving response times and user experience.
+  🔗 [GitHub Repository](https://github.com/kkr202mlds/Iris_Classification_App_w_ML_flow_Data_Analysis_Docker_Flask_Celery/tree/main)
 
 - **IMDB Exploratory Data Analysis & Visualization with Machine Learning**  
   *Logistic Regression, K Neighbors, Decision Tree Classifier Model | 🛠️ Tools: Python, Pandas, NumPy, Matplotlib, Seaborn, Plotly & Transformer*  
-  🔗 [GitHub IMDB EDA Transformer ML](https://github.com/kkr202mlds/IMDB_Exploratory_Data_Analysis_Visualiz_w_ML.git)
+  🔗 [GitHub Repository](https://github.com/kkr202mlds/IMDB_Exploratory_Data_Analysis_Visualiz_w_ML.git)
 
+- **Click prediction analysis with Spark RDD & DataFrame APIs**  
+  *Advanced Hadoop RDD Python DataFrame LSML | 🛠️ Tools: Python, Spark, HDFS, RDD*  
+  🔗 [GitHub Repository](https://github.com/kkr202mlds/Click_Prediction_Analysis_w_Spark_RDD_DataFrame_APIs)
+  
 ---
 
-## 🧪 Professional Work Experiences, Research & Courses
-
-- **Resident Engineer - PCI Prime Group (Nov, 2024 - Feb, 2025)**  
-  *Escorts Kubota - Faridabad, HR, IN*  
-  - Inventory Management, Software Update, Desktop Connection. MS Office.  
-  - Manage and maintain data center infrastructure and equipment.
+## 🧪 Other Experiences
 
 - **IT Coordinator - AISATS (Aug, 2024 - Nov, 2024)**  
   *AIR INDIA - Gurugram, HR, IN*  
-  - Troubleshoot and resolve hardware and network issues. Manage network solutions to enhance performance.  
-  - Collaborate with IT teams to plan and execute system upgrades. Maintain detailed documentation of systems.
+  - Troubleshoot and resolve hardware and network issues.
+  - Collaborate with IT teams to plan and execute system upgrades.
 
 - **🇬🇱 Associate Analyst, Content Engineering - [Hitachi Group Company] (Nov, 2022 - April, 2023)**  
   *GlobalLogic Technologies Pvt Ltd - Gurugram, Haryana*  
@@ -92,8 +102,10 @@ I'm Kanishk Kumar, Motivated and results-driven ML/AI, Python and Data Scientist
 
 ## 🧘 Education & Internships
 
-- MS Data Science – HSE, Moscow (2021–2023)
-- BTech Food Tech – HBTI Kanpur, India (2012-2017)
+### MS Data Science – HSE, Moscow (2021–2023)
+- Relevant coursework: Advanced Machine Learning, Deep Learning (CNNs, RNNs, Transformers), Natural Language Processing, Big Data Analytics 
+(Spark), Statistical Inference, Bayesian Methods.
+#### BTech Food Tech – HBTI Kanpur, India (2012-2017)
 
 ---
 
@@ -110,4 +122,3 @@ I'm Kanishk Kumar, Motivated and results-driven ML/AI, Python and Data Scientist
 
 - English
 - Hindi
-- Punjabi
