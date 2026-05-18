@@ -1,6 +1,6 @@
 # Kanishk Kumar
 
-**Data Scientist | Python Associate | ML Analyst**
+**Data Scientist \| Python Associate | ML Analyst**
 
 *"Code Smart. Think Python."*
 
