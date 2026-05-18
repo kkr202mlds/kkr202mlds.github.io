@@ -40,23 +40,23 @@ Aut.
 
 - **📊 Football Match Outcome Prediction with Deep Learning Project \| Python, LSTM, Scikit-learn**  
   *Higher School of Economics - Moscow, Russian Federation*
-  - Engineered sequential time-series features from historical match data to predict game outcomes.
+- Engineered sequential time-series features from historical match data to predict game outcomes.
 - Compared performance of LSTM networks Logistic Regression, Random Forest AUC-ROC optimization & log-loss reduction. 
   🔗 [YouTube Demo](https://www.youtube.com/watch?v=wAfRRCoxSV4)
 
 - **Multilingual Health Assistant Chatbot Project \| Python, NLP, Dialog Management**  
   *Google Data Project sources based on Python Language*
-  - Built an NLP-driven chatbot capable of processing health-related queries in 3 different languages.
+- Built an NLP-driven chatbot capable of processing health-related queries in 3 different languages.
 - Implemented custom intent classification and entity recognition to navigate over 50 distinct conversational paths.
   🔗 [YouTube Demo](https://www.youtube.com/watch?v=abFE5PhaLoQ&list=PL7ynwnBlQXWXcBRe4A7uRkI5r0DsIeZKM)
 
 - **BoolQ Question Answering with Fine-Tuned BERT Project \| PyTorch, Transformers, NLP**  
   *NLP Chatbot using BERT, word2vec, Stopwords \| 🛠️ Tools: Python, Sklearn, Pandas*
-  - Fine-tuned a BERT-base model on the BoolQ dataset, achieving 87% accuracy in binary question answering.
+- Fine-tuned a BERT-base model on the BoolQ dataset, achieving 87% accuracy in binary question answering.
 - Engineered comparison feature pipelines using word2vec and fastText embeddings to benchmark transformer performance SVM.
   🔗 [GitHub Repository](https://github.com/kkr202mlds/BoolQ_Ques_Ans_Ft_BERT/blob/main/BoolQ_BERT_QuestionAnswering.ipynb)
 
-- **End-to-End MLOps Pipeline: Iris Classification Web App Project \| Flask, Docker, Celery, MLflow**  
+**End-to-End MLOps Pipeline: Iris Classification Web App Project \| Flask, Docker, Celery, MLflow**  
   *SVM, LR, DT, K-NN, LSML, Data Visualization \| 🛠️ Tools: Python, Flask, Docker, Celery, MLflow*
 - Containerized a Flask inference API using Docker to ensure environment consistency across development and production.
 - Implemented Celery for asynchronous prediction task management, improving response times and user experience.
