@@ -30,9 +30,9 @@ Modeling, A/B Testing.
 ## 🧠 Projects{GitHub Repository ^ YouTube Demo}
 
 **Real-Time Stock Price Prediction Project \| Python, LSTM, Data Visualization (Mar, 2026 - Present)**
-- Developed an end-to-end time-series pipeline using LSTM networks to forecast stock prices at 5-minute intervals.
-- Achieved an RMSE of $2.45 with 88% of predictions falling within 3% of the actual closing price.
-- Optimized model retraining latency to 8 seconds, demonstrating a production-ready approach for low-latency financial forecasting.
+- Automated data ingestion (yfinance), scaling, and sliding window (60‑day) preprocessing for LSTM modelling.
+- Designed a 2‑layer LSTM with dropout and early stopping, training on 80% data to predict next‑day closing prices.
+- Visualised results interactively using Plotly (actual vs. predicted, error bands, future forecast).
 
 **Automated Sales Performance & Customer Analytics Dashboard Project \| Python, SQL, Power Query (Mar, 2026 - Present)**
 - Designed an automated analytics workflow to clean and visualize transactional data, surfacing key revenue drivers.
@@ -117,7 +117,6 @@ Modeling, A/B Testing.
 🌍 Available for remote/office work, freelancer, mentoring & collaborations
 
 ---
-
 
 ## 📌 Languages Known
 
