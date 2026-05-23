@@ -33,6 +33,7 @@ Modeling, A/B Testing.
 - Automated data ingestion (yfinance), scaling, and sliding window (60‑day) preprocessing for LSTM modelling.
 - Designed a 2‑layer LSTM with dropout and early stopping, training on 80% data to predict next‑day closing prices.
 - Visualised results interactively using Plotly (actual vs. predicted, error bands, future forecast).
+  🔗 [GitHub Repository](https://github.com/kkr202mlds/Real-Time_Stock_Price/tree/main)
 
 **Automated Sales Performance & Customer Analytics Dashboard Project \| Python, SQL, Power Query (Mar, 2026 - Present)**
 - Designed an automated analytics workflow to clean and visualize transactional data, surfacing key revenue drivers.
