@@ -4,7 +4,7 @@
 
 *"Code Smart. Think Python."*
 
-kanishkk202@gmail.com \| +91-9990465116 \| Noida, Uttar Pradesh
+kanishkk202@gmail.com \| +91-9990465116/7042693420 \| Noida, Uttar Pradesh
 
 ---
 
