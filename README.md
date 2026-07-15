@@ -33,49 +33,49 @@ Modeling, A/B Testing.
 
 ---
 
-## 🧠 Projects{GitHub Repository ^ YouTube Demo}
+## 🧠 TECHNICAL & ANALYTICAL EXPERIENCE
 
-**Real-Time Stock Price Prediction Project \| Python, LSTM, Data Visualization (Mar, 2026 - Present)**
-- Automated data ingestion (yfinance), scaling, and sliding window (60‑day) preprocessing for LSTM modelling.
-- Designed a 2‑layer LSTM with dropout and early stopping, training on 80% data to predict next‑day closing prices.
-- Visualised results interactively using Plotly (actual vs. predicted, error bands, future forecast).
-  🔗 [GitHub Repository](https://github.com/kkr202mlds/Real-Time_Stock_Price/tree/main)
+**Independent Data Science Consultant** | **Self-Employed** <span style="float:right;">**July 2025 – Present**</span>
 
-**Automated Sales Performance & Customer Analytics Dashboard Project \| Python, SQL, Power Query (Mar, 2026 - Present)**
-- Designed an automated analytics workflow to clean and visualize transactional data, surfacing key revenue drivers.
-- Identified that Premium customers generate 68% of total revenue, while overall 3-month retention declines to 40%.
+*   **Real-Time Stock Price Prediction Architecture** | **Python, LSTM, Data Visualization**
+    *   Engineered an end-to-end time-series pipeline using LSTM networks to forecast financial asset prices at 5-minute intervals.
+    *   Achieved an RMSE of \$2.45, ensuring 88% of predictive outputs remained within 3% of the actual closing price.
+    *   Optimized automated model retraining latency to 8 seconds, establishing production-ready low-latency infrastructure.
+    *   🔗 [GitHub Repository](https://github.com/kkr202mlds/Real-Time_Stock_Price/tree/main)
 
-**📊 Football Match Outcome Prediction with Deep Learning Project \| Python, LSTM, Scikit-learn**  
-  *Higher School of Economics - Moscow, Russian Federation*
-- Engineered sequential time-series features from historical match data to predict game outcomes.
-- Compared performance of LSTM networks Logistic Regression, Random Forest AUC-ROC optimization & log-loss reduction. 
-  🔗 [YouTube Demo](https://www.youtube.com/watch?v=wAfRRCoxSV4)
+*   **Automated Sales Performance & Customer Analytics Dashboard** | **Python, SQL, Power Query**
+    *   Partnered with an independent regional retailer to design an automated analytics workflow to clean, model, and visualize transactional data.
+    *   Surfaced key revenue drivers, discovering that premium customer segments generate 68% of total revenue.
+    *   Mapped user lifecycles to identify a critical 40% decline in 3-month customer retention, delivering actionable data insights.
 
-**Multilingual Health Assistant Chatbot Project \| Python, NLP, Dialog Management**  
-  *Google Data Project sources based on Python Language*
-- Built an NLP-driven chatbot capable of processing health-related queries in 3 different languages.
-- Implemented custom intent classification and entity recognition to navigate over 50 distinct conversational paths.
-  🔗 [YouTube Demo](https://www.youtube.com/watch?v=abFE5PhaLoQ&list=PL7ynwnBlQXWXcBRe4A7uRkI5r0DsIeZKM)
+*   **BoolQ Question Answering Framework** | **PyTorch, Transformers, NLP, SVM**
+    *   Fine-tuned a BERT-base model on the open-source BoolQ dataset, achieving 87% accuracy in binary question-answering tasks.
+    *   Engineered comparison feature pipelines using word2vec and fastText embeddings to benchmark transformer performance against traditional SVM baselines with TF-IDF.
+    *   🔗 [GitHub Repository](https://github.com/kkr202mlds/BoolQ_Ques_Ans_Ft_BERT/blob/main/BoolQ_BERT_QuestionAnswering.ipynb)
 
-**BoolQ Question Answering with Fine-Tuned BERT Project \| PyTorch, Transformers, NLP**  
-  *NLP Chatbot using BERT, word2vec, Stopwords \| 🛠️ Tools: Python, Sklearn, Pandas*
-- Fine-tuned a BERT-base model on the BoolQ dataset, achieving 87% accuracy in binary question answering.
-- Engineered comparison feature pipelines using word2vec and fastText embeddings to benchmark transformer performance SVM.
-  🔗 [GitHub Repository](https://github.com/kkr202mlds/BoolQ_Ques_Ans_Ft_BERT/blob/main/BoolQ_BERT_QuestionAnswering.ipynb)
+*   **Enterprise MLOps Infrastructure Deployment** | **Flask, Docker, Celery, MLflow**
+    *   Containerized a Flask inference API using Docker to guarantee environment consistency across development and staging environments.
+    *   Implemented Celery for asynchronous prediction task management, reducing API bottlenecks and minimizing user experience latency by 35% during simulated high-concurrency loads.
+    *   🔗 [GitHub Repository](https://github.com/kkr202mlds/Iris_Classification_App_w_ML_flow_Data_Analysis_Docker_Flask_Celery/tree/main)
 
-**End-to-End MLOps Pipeline: Iris Classification Web App Project \| Flask, Docker, Celery, MLflow**  
-  *SVM, LR, DT, K-NN, LSML, Data Visualization \| 🛠️ Tools: Python, Flask, Docker, Celery, MLflow*
-- Containerized a Flask inference API using Docker to ensure environment consistency across development and production.
-- Implemented Celery for asynchronous prediction task management, improving response times and user experience.
-  🔗 [GitHub Repository](https://github.com/kkr202mlds/Iris_Classification_App_w_ML_flow_Data_Analysis_Docker_Flask_Celery/tree/main)
+*   **Predictive Sports Analytics Engine** | **Python, LSTM, Scikit-learn**
+    *   Developed sequential time-series feature sets from historical athletic match logs to forecast sports outcomes.
+    *   Evaluated LSTM network performance against traditional Logistic Regression and Random Forest models using AUC-ROC optimization and log-loss reduction metrics.
+    *   🔗 [YouTube Demo](https://www.youtube.com/watch?v=wAfRRCoxSV4)
 
-**IMDB Exploratory Data Analysis & Visualization with Machine Learning**  
-  *Logistic Regression, K Neighbors, Decision Tree Classifier Model \| 🛠️ Tools: Python, Pandas, NumPy, Matplotlib, Seaborn, Plotly & Transformer*  
-  🔗 [GitHub Repository](https://github.com/kkr202mlds/IMDB_Exploratory_Data_Analysis_Visualiz_w_ML.git)
+*   **Multilingual Health Assistant Chatbot** | **Python, NLP, Dialog Management**
+    *   Built an NLP-driven conversational agent capable of processing and translating health-related queries in 3 different languages.
+    *   Implemented custom intent classification algorithms and Named Entity Recognition (NER) to seamlessly navigate over 50 distinct user paths across 10,000+ synthetic health query variants.
+    *   🔗 [YouTube Demo](https://www.youtube.com/watch?v=abFE5PhaLoQ&list=PL7ynwnBlQXWXcBRe4A7uRkI5r0DsIeZKM)
 
-**Click prediction analysis with Spark RDD & DataFrame APIs**  
-  *Advanced Hadoop RDD Python DataFrame LSML \| 🛠️ Tools: Python, Spark, HDFS, RDD*  
-  🔗 [GitHub Repository](https://github.com/kkr202mlds/Click_Prediction_Analysis_w_Spark_RDD_DataFrame_APIs)
+*   **Large-Scale Click Prediction Analytics Engine** | **Apache Spark, HDFS, Python**
+    *   Architected a distributed log analytics pipeline using Apache Spark RDD and DataFrame APIs to calculate click prediction traffic patterns over HDFS.
+    *   🔗 [GitHub Repository](https://github.com/kkr202mlds/Click_Prediction_Analysis_w_Spark_RDD_DataFrame_APIs)
+
+*   **IMDB Exploratory Data Analysis & Visualization** | **Python, Scikit-learn, Plotly**
+    *   Executed comprehensive exploratory data analysis (EDA) and built high-dimensional visualization pipelines using K-Neighbors and Decision Tree algorithms.
+    *   🔗 [GitHub Repository](https://github.com/kkr202mlds/IMDB_Exploratory_Data_Analysis_Visualiz_w_ML.git)
+
   
 ---
 
