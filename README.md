@@ -1,19 +1,25 @@
 # Kanishk Kumar
 
-**Data Scientist \| Python Associate \| ML Analyst**
+**Data Science Consultant | Machine Learning Engineer | Python Developer**  
+*Code smart. Think consultant.*
 
-*"Code Smart. Think Python."*
-
-kanishkk202@gmail.com \| +91-9990465116/7042693420 \| Noida, Uttar Pradesh
+📧 [kanishkk202@gmail.com](mailto:kanishkk202@gmail.com) | 📱 +91-9990465116 / +91-7042693420(WhatsApp) | 📍 Noida, Uttar Pradesh  
+🌐 [Portfolio Website](https://kkr202mlds.github.io) | 💻 [GitHub Profile](https://github.com/kkr202mlds) | 👔 [LinkedIn](https://linkedin.com/in/kumar16)
 
 ---
 
-## 🙋 About ME
+## 🙋 About Me
 
-Data Scientist with an MSc in Data Science from HSE University and 2+ years of hands-on project experience in Machine Learning, Python and 
-NLP. Proficient in Python, model deployment (Flask, Docker), and deep learning techniques including Transformers and LSTMs. Strong foundation 
-in statistics and big data (Spark), with a keen interest in MLOps and Generative AI. Seeking an entry-level role to apply data-driven solutions to 
-real-world problems.
+Results-driven Data Science Consultant with an M.Sc. in Data Science and 2+ years of hands-on experience delivering end-to-end machine learning, NLP, and analytics solutions. Proven expertise in building automated ETL pipelines, engineering deep learning architectures (LSTMs, Transformers), and deploying scalable models using Docker and Flask. Passionate about leveraging MLOps and Generative AI to surface actionable business insights and optimize operational efficiency.
+
+---
+
+## 💡 Technical Skills
+
+*   **Languages & Libraries:** Python (Advanced), SQL (Intermediate), Pandas, NumPy, Scikit-learn, PyTorch, TensorFlow/Keras, XGBoost
+*   **Machine Learning & AI:** Natural Language Processing (BERT, GPT, Transformers), Time-Series Analysis (LSTM), Computer Vision, Statistical Modeling, A/B Testing
+*   **MLOps & Deployment:** Docker, Flask, FastAPI, Celery, MLflow, Git
+*   **Big Data & Cloud:** Apache Spark (RDD, DataFrames), Hadoop, Azure
 
 ---
 
