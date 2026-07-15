@@ -1,10 +1,10 @@
 # Kanishk Kumar
 
-**Data Science Consultant | Machine Learning Engineer | Python Developer**  
+**Data Science Consultant \| Machine Learning Engineer \| Python Developer**  
 *Code smart. Think consultant.*
 
-📧 [kanishkk202@gmail.com](mailto:kanishkk202@gmail.com) | 📱 +91-9990465116 / +91-7042693420(WhatsApp) | 📍 Noida, Uttar Pradesh  
-🌐 [Portfolio Website](https://kkr202mlds.github.io) | 💻 [GitHub Profile](https://github.com/kkr202mlds) | 👔 [LinkedIn](https://linkedin.com/in/kumar16)
+📧 [kanishkk202@gmail.com](mailto:kanishkk202@gmail.com) \| 📱 +91-9990465116 / +91-7042693420(WhatsApp) \| 📍 Noida, Uttar Pradesh  
+🌐 [Portfolio Website](https://kkr202mlds.github.io) \| 💻 [GitHub Profile](https://github.com/kkr202mlds) \| 👔 [LinkedIn](https://linkedin.com/in/kumar16)
 
 ---
 
