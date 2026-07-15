@@ -3,8 +3,12 @@
 **Data Science Consultant \| Machine Learning Engineer \| Python Developer**  
 *Code smart. Think consultant.*
 
-📧 [kanishkk202@gmail.com](mailto:kanishkk202@gmail.com) \| 📱 +91-9990465116 / +91-7042693420(WhatsApp) \| 📍 Noida, Uttar Pradesh  
-🌐 [Portfolio Website](https://kkr202mlds.github.io) \| 💻 [GitHub Profile](https://github.com/kkr202mlds) \| 👔 [LinkedIn](https://linkedin.com/in/kumar16)
+<p align="center">
+  📧 <a href="mailto:kanishkk202@gmail.com">kanishkk202@gmail.com</a> | 📱 +91-9990465116 / +91-7042693420(WhatsApp) | 📍 Noida, Uttar Pradesh
+</p>
+<p align="center">
+  🌐 <a href="https://kkr202mlds.github.io">Portfolio Website</a> | 💻 <a href="https://github.com/kkr202mlds">GitHub Profile</a> | 👔 <a href="https://linkedin.com/in/kumar16">LinkedIn</a>
+</p>
 
 ---
 
