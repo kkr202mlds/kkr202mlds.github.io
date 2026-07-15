@@ -102,11 +102,9 @@ Modeling, A/B Testing.
 
 *   **The Complete Machine Learning Course with Python** | **Udemy** <span style="float:right;">**2025**</span>
     *Core Focus: Statistics, Linear Algebra, EDA, Supervised/Unsupervised Learning, NLP, and Model Optimization.*
-    *   🔗 [GitHub ML Python Repository](https://github.com/kkr202mlds/Work_Experience_Research_Course/tree/main/Ud_Cmp_ML_Cur_wt_Py)
 
 *   **Python 3: Project-based Python, Algorithms, Data Structures** | **Udemy** <span style="float:right;">**2025**</span>
     *Core Focus: Sorting Frameworks, Search Metrics, Graph Structures, Recursion, Backtracking, and Dynamic Programming.*
-    *   🔗 [GitHub Data Structures & Algorithms Repository](https://github.com/kkr202mlds/Work_Experience_Research_Course/tree/main/Ud_Py_Alg_Dat_Struc)
 
 *   **Python 101 for Data Science** | **IBM** <span style="float:right;">**2024**</span>
 
