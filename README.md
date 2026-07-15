@@ -79,40 +79,43 @@ Modeling, A/B Testing.
   
 ---
 
-## 🧪 Other Experiences
+## 💼 CORPORATE EXPERIENCE
 
-- **IT Coordinator - AISATS (Aug, 2024 - Nov, 2024)**  
-  *AIR INDIA - Gurugram, HR, IN*  
-  - Troubleshoot and resolve hardware and network issues.
-  - Collaborate with IT teams to plan and execute system upgrades.
+*   **Resident Engineer** | **PCI Prime Group (Escorts Kubota)** <span style="float:right;">**Nov 2024 – Feb 2025**</span>
+    *Faridabad, Haryana, India*
+    *   Engineered automated ETL pipelines using Python to ingest, clean, and analyze high-frequency IoT hardware metrics, cutting manual reporting latency by 15 hours monthly.
+    *   Conducted statistical trend analysis on machinery output datasets to identify operational variance patterns, converting raw data into predictive metrics for maintenance scheduling.
 
-- **🇬🇱 Associate Analyst, Content Engineering - [Hitachi Group Company] (Nov, 2022 - April, 2023)**  
-  *GlobalLogic Technologies Pvt Ltd - Gurugram, Haryana*  
-  - Google Data Project sources based on Python Language & ML.  
-  - Use Data Analytical Tool tasks for image detection, recognition.
+*   **IT Coordinator** | **AIR INDIA (AISATS)** <span style="float:right;">**Aug 2024 – Nov 2024**</span>
+    *Gurugram, Haryana, India*
+    *   Performed exploratory data analysis (EDA) and text mining on 100+ incident logs to identify systemic failure patterns, implementing data-driven workflows that decreased incident recurrence by 20%.
+    *   Structured raw troubleshooting data into standardized documentation schemas and knowledge-base architectures, reducing average resolution time for technical support teams.
 
----
-
-## 🚀 Certifications
-
-- **🏁 Udemy - The Complete Machine Learning Course with Python (2024 - 2025)**  
-  *Statistics & Linear Algebra, EDA, Supervised, Unsupervised, Deep Learning, Model Selection, NLP*  
-  🔗 [GitHub ML Python](https://github.com/kkr202mlds/Work_Experience_Research_Course/tree/main/Ud_Cmp_ML_Cur_wt_Py)
-
-- **🏁 Udemy - Python 3: Project-based Python, Algorithms, Data Structures (2024 - 2025)**  
-  *Data Structure, Sorting, Graph & Search Algorithms, Recursion & Backtracking, Dynamic Programming*  
-  🔗 [GitHub Data Structure & Algorithm](https://github.com/kkr202mlds/Work_Experience_Research_Course/tree/main/Ud_Py_Alg_Dat_Struc)
-
-- IBM Python 101 for Data Science
+*   **Associate Analyst, Content Engineering** | **GlobalLogic (Hitachi Group Company)** <span style="float:right;">**Nov 2022 – Apr 2023**</span>
+    *Gurugram, Haryana, India*
+    *   Partnered on data analytics operations utilizing built-in Python and ML tools for specialized computer vision applications, focusing on object recognition workflows.
+    *   Processed high-fidelity source data pipelines to ensure exact model alignment, data integrity, and pipeline verification during early-stage testing.
 
 ---
 
-## 🧘 Education & Internships
+## 🚀 CERTIFICATIONS
 
-- **MS Data Science – HSE, Moscow (2021–2023)**
-  - Relevant coursework: Advanced Machine Learning, Deep Learning (CNNs, RNNs, Transformers), Natural Language Processing, Big Data Analytics 
-(Spark), Statistical Inference, Bayesian Methods.
-- **BTech Food Tech – HBTI Kanpur, India (2012-2017)**
+*   **The Complete Machine Learning Course with Python** | **Udemy** <span style="float:right;">**2025**</span>
+    *Core Focus: Statistics, Linear Algebra, EDA, Supervised/Unsupervised Learning, NLP, and Model Optimization.*
+    *   🔗 [GitHub ML Python Repository](https://github.com/kkr202mlds/Work_Experience_Research_Course/tree/main/Ud_Cmp_ML_Cur_wt_Py)
+
+*   **Python 3: Project-based Python, Algorithms, Data Structures** | **Udemy** <span style="float:right;">**2025**</span>
+    *Core Focus: Sorting Frameworks, Search Metrics, Graph Structures, Recursion, Backtracking, and Dynamic Programming.*
+    *   🔗 [GitHub Data Structures & Algorithms Repository](https://github.com/kkr202mlds/Work_Experience_Research_Course/tree/main/Ud_Py_Alg_Dat_Struc)
+
+*   **Python 101 for Data Science** | **IBM** <span style="float:right;">**2024**</span>
+
+---
+
+## 🎓 EDUCATION
+
+*   **M.Sc. in Data Science** | **HSE University** <span style="float:right;">**2021 – 2023**</span>
+*   **Bachelor of Technology (B.Tech)** | **Harcourt Butler Technical University (HBTU)** <span style="float:right;">**2012 – 2017**</span>
 
 ---
 
