@@ -36,7 +36,7 @@ Modeling, A/B Testing.
 ## 🧠 TECHNICAL & ANALYTICAL EXPERIENCE
 <p align="center">
 **Independent Data Science Consultant** \| **Self-Employed** <span style="float:right;">**July 2025 – Present**</span>
-
+</p>
 *   **Real-Time Stock Price Prediction Architecture** | **Python, LSTM, Data Visualization**
     *   Engineered an end-to-end time-series pipeline using LSTM networks to forecast financial asset prices at 5-minute intervals.
     *   Achieved an RMSE of \$2.45, ensuring 88% of predictive outputs remained within 3% of the actual closing price.
@@ -75,7 +75,6 @@ Modeling, A/B Testing.
 *   **IMDB Exploratory Data Analysis & Visualization** | **Python, Scikit-learn, Plotly**
     *   Executed comprehensive exploratory data analysis (EDA) and built high-dimensional visualization pipelines using K-Neighbors and Decision Tree algorithms.
     *   🔗 [GitHub Repository](https://github.com/kkr202mlds/IMDB_Exploratory_Data_Analysis_Visualiz_w_ML.git)
-</p>
   
 ---
 
