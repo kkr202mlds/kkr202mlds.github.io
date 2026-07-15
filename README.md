@@ -35,7 +35,7 @@ Modeling, A/B Testing.
 
 ## 🧠 TECHNICAL & ANALYTICAL EXPERIENCE
 
-**Independent Data Science Consultant** | **Self-Employed** <span style="float:right;">**July 2025 – Present**</span>
+**Independent Data Science Consultant** /| **Self-Employed** <span style="float:right;">**July 2025 – Present**</span>
 
 *   **Real-Time Stock Price Prediction Architecture** | **Python, LSTM, Data Visualization**
     *   Engineered an end-to-end time-series pipeline using LSTM networks to forecast financial asset prices at 5-minute intervals.
