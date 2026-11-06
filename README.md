@@ -27,7 +27,7 @@ Results-driven Data Science Consultant with an M.Sc. in Data Science and 2+ year
 
 ## 🧠 Technical & Analytical Experience
 
-### 🛠️ Independent Data Science Consultant | Self-Employed (July 2025 – Present)
+### 🛠️ Independent Data Science Consultant | Self-Employed <span style="float:right;">**(July 2025 – Present)**</span>
 
 *   **Real-Time Stock Price Prediction Architecture**
     *   Engineered an end-to-end machine learning pipeline using Python and LSTM networks to forecast financial asset prices at 5-minute intervals.
@@ -86,14 +86,14 @@ Results-driven Data Science Consultant with an M.Sc. in Data Science and 2+ year
 
 ## 🚀 Certifications
 
-*   **Responsive Web Design Certification**  FreeCodeCamp  <span style="float:right;">**2026**</span>
-*   **The Complete Machine Learning Course with Python**  Udemy <span style="float:right;">**2025**</span>
-*   **Python 3: Project-based Python, Algorithms, Data Structures**  Udemy <span style="float:right;">**2025**</span>
-*   **Python 101 for Data Science**  IBM / Google <span style="float:right;">**2024 / 2025**</span>
+*   **Responsive Web Design Certification** - FreeCodeCamp  <span style="float:right;">**2026**</span>
+*   **The Complete Machine Learning Course with Python** - Udemy <span style="float:right;">**2025**</span>
+*   **Python 3: Project-based Python, Algorithms, Data Structures** - Udemy <span style="float:right;">**2025**</span>
+*   **Python 101 for Data Science** - IBM / Google <span style="float:right;">**2024 / 2025**</span>
 
 ---
 
 ## 🎓 Education
 
-*   **M.Sc. in Data Science** | HSE University <span style="float:right;">**2021 – 2023**</span>
-*   **Bachelor of Technology (B.Tech)** | Harcourt Butler Technical University <span style="float:right;">**2012 – 2017**</span>
+*   **M.Sc. in Data Science** - HSE University <span style="float:right;">**2021 – 2023**</span>
+*   **Bachelor of Technology (B.Tech)** - Harcourt Butler Technical University <span style="float:right;">**2012 – 2017**</span>
