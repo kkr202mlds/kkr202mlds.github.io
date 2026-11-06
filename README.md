@@ -86,10 +86,10 @@ Results-driven Data Science Consultant with an M.Sc. in Data Science and 2+ year
 
 ## 🚀 Certifications
 
-*   **Responsive Web Design Certification** | FreeCodeCamp <span style="float:right;">**2026**</span>
-*   **The Complete Machine Learning Course with Python** | Udemy <span style="float:right;">**2025**</span>
-*   **Python 3: Project-based Python, Algorithms, Data Structures** | Udemy <span style="float:right;">**2025**</span>
-*   **Python 101 for Data Science** | IBM / Google <span style="float:right;">**2024 / 2025**</span>
+*   **Responsive Web Design Certification**  FreeCodeCamp  <span style="float:right;">**2026**</span>
+*   **The Complete Machine Learning Course with Python**  Udemy <span style="float:right;">**2025**</span>
+*   **Python 3: Project-based Python, Algorithms, Data Structures**  Udemy <span style="float:right;">**2025**</span>
+*   **Python 101 for Data Science**  IBM / Google <span style="float:right;">**2024 / 2025**</span>
 
 ---
 
