@@ -1,4 +1,4 @@
-## 🙋‍♂️ Kanishk Kumar
+### 🙋‍♂️ Kanishk Kumar
 
 **Data Science Consultant | Machine Learning Engineer | Python Developer**  
 *Code smart. Think consultant.*
